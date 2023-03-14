@@ -1,12 +1,24 @@
-[![Claudinei's GitHub stats](https://github-readme-stats.vercel.app/api?username=claupereirajr)](https://github.com/claupereirajr/github-readme-stats)
+## <div align="center">👋 Hi, I’m Claudinei Pereira Jr</div>
+<div align="center">
+<a href="https://behance.net/claupereirajr" target="_blank">
+<img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" alt=behance style="margin-bottom: 5px;" />
+</a>
+<a href="https://discord.gg/Datsukero" target="_blank">
+<img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt=behance style="margin-bottom: 5px;" />
+</a>
+<a href="https://facebook.com/claudineijr.dev" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt=behance style="margin-bottom: 5px;" />
+</a>  
+<a href="https://instagram.com/claudineijr.dev" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt=behance style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/cpereirajr" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt=behance style="margin-bottom: 5px;" />
+</a>
+</div>
 
-- 👋 Hi, I’m @claupereirajr
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+![](https://github-readme-stats.vercel.app/api?username=claupereirajr&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&hide=prs)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=claupereirajr&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<!---
-claupereirajr/claupereirajr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Buy me a coffe and I'll convert to code
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/claudineijrdev) 
