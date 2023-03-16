@@ -22,7 +22,7 @@ I'm a generally curious person interested in a variety of things, and tend to bu
 ![](https://github-readme-stats.vercel.app/api?username=claupereirajr&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&hide=prs)<br/>
 
 ## About Me
-Hi I'm Claudinei. I'm a multi-talented human with over 10+ year of experiences in wide range of design and development sites.<br/>
+Hi I'm Claudinei. I'm a multi-talented human with over 10+ year of experiences in wide range of design and development sites and flutter apps.<br/>
 Student of MBA in Data Science on USP/Esalq. Graduated in Analysis and Systems Development on IFPR - Institute Federal of Paraná in 2019.
 Current I'm working as Front-end Developer and IT Manager on [Grupo YGOM Advertising](https://grupoygom.com.br/) since December 2018.
 With a background working as Art Director on [Grupo Folha de Comunicação](https://www.folhadelondrina.com.br/grupofolha) one of the main newspaper in Londrina/Parana.
