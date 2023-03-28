@@ -28,6 +28,3 @@ Current I'm working as Front-end Developer and IT Manager on [Grupo YGOM Adverti
 With a background working as Art Director on [Grupo Folha de Comunicação](https://www.folhadelondrina.com.br/grupofolha) one of the main newspaper in Londrina/Parana.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=claupereirajr&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-### Buy me a coffe and I'll convert to code
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/claudineijrdev) 
