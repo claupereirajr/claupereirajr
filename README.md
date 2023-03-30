@@ -14,7 +14,7 @@ I'm a generally curious person interested in a variety of things, and tend to bu
 <a href="https://instagram.com/claudineijr.dev" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt=behance style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/cpereirajr" target="_blank">
+<a href="https://linkedin.com/in/claupereirajr/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt=behance style="margin-bottom: 5px;" />
 </a>
 </div>
