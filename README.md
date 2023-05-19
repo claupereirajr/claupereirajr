@@ -28,7 +28,7 @@
 </a>
 </div><br/>
 
-| ![](https://github-readme-stats.vercel.app/api?username=claupereirajr&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&hide=prs) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=claupereirajr&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact) |
+| ![](https://github-readme-stats.vercel.app/api?username=claupereirajr&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&hide=prs) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=claupereirajr&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact) |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ## <img src="https://media4.giphy.com/media/hjZ3T2Eso1wJ8QWoCl/giphy.gif?cid=ecf05e47dj2dlrx3p4ayiy88ph5m3mq24pu6ry1qui40rqwq&rid=giphy.gif&ct=s" width="42" /> About Me
