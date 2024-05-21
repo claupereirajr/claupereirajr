@@ -1,4 +1,4 @@
-<a href="https://linktr.ee/claudineijr/" target="_blank"><img src="https://i.ibb.co/h1LrcMn/Linkedin-Banner.png" width="100%" /></a>
+<a href="https://linktr.ee/claudineijr/" target="_blank">All MyLinks</a>
 
 # <div align="center">👋 Hi, I’m Claudinei Pereira Jr</div>
 
@@ -35,8 +35,9 @@
 
 Hi I'm Claudinei. I'm a multi-talented human with over 10+ year of experiences in wide range of design and development sites and flutter apps.<br/>
 Student of MBA in Data Science on USP/Esalq. Graduated in Analysis and Systems Development on IFPR - Institute Federal of Paraná in 2019.
-Current I'm working as Front-end Developer and IT Manager on [Grupo YGOM Advertising](https://grupoygom.com.br/) since December 2018.
-With a background working as Art Director on [Grupo Folha de Comunicação](https://www.folhadelondrina.com.br/grupofolha) one of the main newspaper in Londrina/Parana.
+Current I'm working as Full-Stack Developer on [Global Envios Start-up](https://globalenvios.com.br).
+With a background working as Front-end Developer and IT Manager on [Grupo YGOM Advertising](https://grupoygom.com.br/) since December 2018 until June 2023,
+and Art Director on [Grupo Folha de Comunicação](https://www.folhadelondrina.com.br/grupofolha) one of the main newspaper in Londrina/Parana.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="42" /> Skills
 
@@ -48,7 +49,7 @@ With a background working as Art Director on [Grupo Folha de Comunicação](http
 
 - **Frameworks**:
   
-  ![Django](https://img.shields.io/badge/django-%23092E20?style=for-the-badge&logo=django&logoColor=%232ba977) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![ReactNative](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![ReactNative](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20?style=for-the-badge&logo=django&logoColor=%232ba977) 
 
 - **Databases**:
   
