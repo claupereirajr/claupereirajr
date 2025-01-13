@@ -1,8 +1,9 @@
-<a href="https://linktr.ee/claudineijr/" target="_blank">All MyLinks</a>
+<a href="https://linktr.ee/claudineijr?utm_source=github&utm_medium=profile&utm_campaign=MyProfile2025" target="_blank">All MyLinks</a>
 
 # <div align="center">👋 Hi, I’m Claudinei Pereira Jr</div>
 
-<div align="center">I'm a generally curious person interested in a variety of things, and tend to build things or analyze those curiosities with code.</div>
+<div align="center">I'm a generally curious person interested in a variety of things, and tend to build things or analyze those curiosities with code. <a href="https://linktr.ee/claudineijr?utm_source=github&utm_medium=profile&utm_campaign=MyProfile2025" target="_blank">All MyLinks</a>
+</div>
 <br/>
 <div align="center">
 <a href="https://linktr.ee/claudineijr/" target="_blank">
