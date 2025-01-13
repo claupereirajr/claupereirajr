@@ -6,19 +6,16 @@
 </div>
 <br/>
 <div align="center">
-<a href="https://linktr.ee/claudineijr/" target="_blank">
+<a href="https://linktr.ee/claudineijr?utm_source=github&utm_medium=profile&utm_campaign=MyProfile2025" target="_blank">
 <img src="https://img.shields.io/badge/linktree-%231de9b6.svg?&logo=linktree&logoColor=white" alt=behance style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/claupereirajr/" target="_blank">
+<a href="https://linkedin.com/in/claupereirajr?utm_source=github" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt=behance style="margin-bottom: 5px;" />
 </a>
 <a href="https://discordapp.com/users/633352628595589121" target="_blank">
 <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt=behance style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/clau.pereira.jr" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt=behance style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/claudineijr.dev" target="_blank">
+<a href="https://instagram.com/claudineijr.dev?utm_source=github" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt=behance style="margin-bottom: 5px;" />
 </a>
 <a href="https://facebook.com/claudineijr.dev" target="_blank">
