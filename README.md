@@ -1,62 +1,114 @@
-<a href="https://linktr.ee/claudineijr?utm_source=github&utm_medium=profile&utm_campaign=MyProfile2025" target="_blank">All MyLinks</a>
-
-# <div align="center">👋 Hi, I’m Claudinei Pereira Jr</div>
-
-<div align="center">I'm a generally curious person interested in a variety of things, and tend to build things or analyze those curiosities with code. <a href="https://linktr.ee/claudineijr?utm_source=github&utm_medium=profile&utm_campaign=MyProfile2025" target="_blank">All MyLinks</a>
-</div>
-<br/>
 <div align="center">
-<a href="https://linktr.ee/claudineijr?utm_source=github&utm_medium=profile&utm_campaign=MyProfile2025" target="_blank">
-<img src="https://img.shields.io/badge/linktree-%231de9b6.svg?&logo=linktree&logoColor=white" alt=behance style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/claupereirajr?utm_source=github" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt=behance style="margin-bottom: 5px;" />
-</a>
-<a href="https://discordapp.com/users/633352628595589121" target="_blank">
-<img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt=behance style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/claudineijr.dev?utm_source=github" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt=behance style="margin-bottom: 5px;" />
-</a>
-<a href="https://facebook.com/claudineijr.dev" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt=behance style="margin-bottom: 5px;" />
-</a>
-<a href="https://behance.net/claupereirajr" target="_blank">
-<img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" alt=behance style="margin-bottom: 5px;" />
-</a>
-</div><br/>
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-| ![](https://github-readme-stats.vercel.app/api?username=claupereirajr&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&hide=prs) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=claupereirajr&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact) |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+###
 
-## <img src="https://media4.giphy.com/media/hjZ3T2Eso1wJ8QWoCl/giphy.gif?cid=ecf05e47dj2dlrx3p4ayiy88ph5m3mq24pu6ry1qui40rqwq&rid=giphy.gif&ct=s" width="42" /> About Me
+<p align="left">I'm a generally curious person interested in a variety of things, and tend to build things or analyze those curiosities with code.</p>
 
-Hi I'm Claudinei. I'm a multi-talented human with over 10+ year of experiences in wide range of design and development sites and flutter apps.<br/>
-Student of MBA in Data Science on USP/Esalq. Graduated in Analysis and Systems Development on IFPR - Institute Federal of Paraná in 2019.
-Current I'm working as Full-Stack Developer on [Global Envios Start-up](https://globalenvios.com.br).
-With a background working as Front-end Developer and IT Manager on [Grupo YGOM Advertising](https://grupoygom.com.br/) since December 2018 until June 2023,
-and Art Director on [Grupo Folha de Comunicação](https://www.folhadelondrina.com.br/grupofolha) one of the main newspaper in Londrina/Parana.
+###
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="42" /> Skills
+<div align="center">
+  <a href="https://linktr.ee/claudineijr?utm_source=github&utm_medium=profile&utm_campaign=MyProfile2025" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
+  </a>
+  <a href="https://linkedin.com/in/claupereirajr?utm_source=github" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://instagram.com/claudineijr.dev?utm_source=github" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://behance.net/claupereirajr" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="behance logo"  />
+  </a>
+  <a href="https://facebook.com/claudineijr.dev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  </a>
+  <a href="https://discordapp.com/users/633352628595589121" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+</div>
 
-<p align="center">
+###
 
-- **Languages**:
-  
-  ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JS](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=claupereirajr.claupereirajr&"  />
+</div>
 
-- **Frameworks**:
-  
-  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Django](https://img.shields.io/badge/django-%23092E20?style=for-the-badge&logo=django&logoColor=%232ba977) 
+###
 
-- **Databases**:
-  
-  ![MySQL](https://img.shields.io/badge/mysql-%23007195.svg?style=for-the-badge&logo=mysql&logoColor=%23ffa518) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<h1 align="center">Hi, I’m Claudinei Pereira Jr</h1>
 
-- **Data Analysis**:
-  
-  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+###
 
-- **Softwares and Tools**:
-  
-  ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">Hi I'm Claudinei. I'm a multi-talented human with over 10+ year of experiences in wide range of design and development sites and flutter apps.<br/><br>Student of MBA in Data Science on USP/Esalq. Graduated in Analysis and Systems Development on IFPR - Institute Federal of Paraná in 2019.<br>Current I'm working as Freelancer Full-Stack Developer on [Global Envios Start-up](https://globalenvios.com.br).<br>With a background working as Front-end Developer and IT Manager on [Grupo YGOM Advertising](https://grupoygom.com.br/) since December 2018 until June 2023,<br>and Art Director on [Grupo Folha de Comunicação](https://www.folhadelondrina.com.br/grupofolha) one of the main newspaper in Londrina/Parana.</p>
+
+###
+
+<h3 align="left">🛠 Skils</h3>
+
+###
+
+<h4 align="left">Languages</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+</div>
+
+###
+
+<h4 align="left">Frameworks</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+</div>
+
+###
+
+<h4 align="left">DB</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=claupereirajr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
