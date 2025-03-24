@@ -45,7 +45,7 @@
 
 ###
 
-<p align="left">Hi I'm Claudinei. I'm a multi-talented human with over 10+ year of experiences in wide range of design and development sites and flutter apps.<br/><br>Student of MBA in Data Science on USP/Esalq. Graduated in Analysis and Systems Development on IFPR - Institute Federal of Paraná in 2019.<br>Current I'm working as Freelancer Full-Stack Developer on [Global Envios Start-up](https://globalenvios.com.br).<br>With a background working as Front-end Developer and IT Manager on [Grupo YGOM Advertising](https://grupoygom.com.br/) since December 2018 until June 2023,<br>and Art Director on [Grupo Folha de Comunicação](https://www.folhadelondrina.com.br/grupofolha) one of the main newspaper in Londrina/Parana.</p>
+Hi I'm Claudinei. I'm a multi-talented human with over 10+ year of experiences in wide range of design and development sites and flutter apps.<br/><br>Student of MBA in Data Science on USP/Esalq. Graduated in Analysis and Systems Development on IFPR - Institute Federal of Paraná in 2019.<br>Current I'm working as Freelancer Full-Stack Developer on [Global Envios Start-up](https://globalenvios.com.br).<br>With a background working as Front-end Developer and IT Manager on [Grupo YGOM Advertising](https://grupoygom.com.br/) since December 2018 until June 2023,<br>and Art Director on [Grupo Folha de Comunicação](https://www.folhadelondrina.com.br/grupofolha) one of the main newspaper in Londrina/Parana.
 
 ###
 
